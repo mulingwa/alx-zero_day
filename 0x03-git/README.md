@@ -1,1 +1,1 @@
-This folder contains everything I am learning in ALX
+This folder contains everything I am learning in ALX for software engineering
